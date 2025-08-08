@@ -1,7 +1,38 @@
 ---
 import Layout from "../layouts/Layout.astro";
+
+import  { getCollection } from "astro:content";
+
+const recipes = await getCollection("recipes");
+
+const categories = recipes.reduce((acc,recipe) => {
+	recipe.data.categories.forEach(category => {
+		if (!acc[category]) {
+			acc[category] = [];
+		}
+		acc[category].push(recipe.data.title);
+	}); 
+	return acc;
+}, {});
 ---
 
 <Layout>
-	<h1 class="text-3xl font-bold underline bg-champagne">Hello world!</h1>
+	<div class="flex mt-2 flex-wrap justify-around">
+	{
+		Object.entries(categories)
+			.sort(([a], [b]) => a.localeCompare(b))
+			.map(([category, titles]) => (
+			<div class="mx-1 mb-2 border p-1 bg-champagne rounded basis-full md:basis-1/4 flex-grow">
+			<div class="border-3 p-1 rounded h-full">
+				<h3 class="text-2xl ml-2 font-bold capitalize">{category}</h3>
+				<ul class="ml-6 mt-2 list-disc list-outside">
+					{titles
+						.sort((a, b) => a.localeCompare(b))
+						.map((title) => <li>{title}</li>)}
+				</ul>
+				</div>
+			</div>
+		))
+	}
+	</div>
 </Layout>
