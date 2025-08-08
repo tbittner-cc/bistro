@@ -1,7 +1,99 @@
-Pepperoni Pizza
-meat,pizza
-pepperoni
+Spinach and Sun-dried Tomato Pizza
+vegetarian,pizza
+spinach-pizza
 
-Palak Paneer
-vegetarian,indian
-palak-paneer
+Eggplant and Caramelized Onion Pizza
+vegetarian,pizza
+eggplant-pizza
+
+Black Bean Burger
+vegetarian,sandwich
+blackbean-burger
+
+Chickpea Curry
+indian,vegetarian
+chickpea-curry
+
+Portobello Fajitas
+mexican,vegetarian
+fajitas
+
+Margherita Pizza
+pizza,vegetarian
+margherita
+
+Goat Cheese and Red Onion Quesadillas
+mexican,vegetarian
+quesadillas 
+
+Leek and Artichoke Frittata
+vegetarian
+frittata
+
+Peanut Noodles with Tofu
+asian,vegetarian
+peanut-noodles
+
+Sweet and Sour Tofu
+asian, vegetarian
+sweet-and-sour
+
+Tofu Picatta
+vegetarian, pasta
+picatta
+
+Tofu Tacos with Avocado Crema
+vegetarian, mexican
+avocado-crema-tacos
+
+Spinach Pastitio
+vegetarian, greek
+pastitio
+
+Buffalo Chicken Pizza
+pizza, chicken
+buffalo-chicken-pizza
+
+Fried Chicken Sandwich
+sandwich, chicken
+fried-chicken-sandwich
+
+Pasta a la Grecque
+pasta, greek, chicken
+grecque
+
+Marry-me Chicken
+pasta, chicken
+marry-me
+
+Spinach Alfredo with Chicken
+pasta, chicken
+alfredo
+
+Spinach and Blue Cheese Pasta with Chicken
+pasta, chicken
+blue-cheese-pasta
+
+Chicken Shawarma
+mediterranean, chicken
+shawarma
+
+Tofu Tacos with Asian Flavors
+asian, mexican, vegetarian
+asian-tacos
+
+Ricotta Gnocchi with Pomodoro Sauce and Chicken
+pasta, chicken
+gnocchi
+
+Honey-Glazed Wings
+chicken
+wings
+
+Chicken sandwich with cheddar and basil garlic aioli
+chicken, sandwich
+aioli-chicken-sandwich
+
+Chicken Cubano
+chicken, sandwich
+cubano
