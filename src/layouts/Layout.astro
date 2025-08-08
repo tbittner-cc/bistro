@@ -1,5 +1,7 @@
 ---
 import '../styles/global.css';
+
+import logo from '../assets/todds-bistro-small-logo.png';
 ---
 
 <!doctype html>
@@ -13,6 +15,13 @@ import '../styles/global.css';
         <title>Todd's Bistro</title>
     </head>
     <body>
-        <slot />
+        <div class="mx-auto px-2">
+            <div class="mx-auto mt-2 border-1 border-black rounded-md p-2 md:w-1/2 w-full">
+                <div class="flex flex-col items-center w-full mx-auto border-4 border-black rounded-md p-2">
+                    <img src={logo.src} alt="Todd's Bistro Logo" class="w-full rounded-md" />
+                    <slot />
+                </div>
+            </div>
+        </div>
     </body>
 </html>
