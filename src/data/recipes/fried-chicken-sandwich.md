@@ -1,6 +1,6 @@
 ---
 title: "Fried Chicken Sandwich"
-categories: [sandwich, chicken]
+categories: [sandwiches, chicken]
 slug: "fried-chicken-sandwich"
 ---
 

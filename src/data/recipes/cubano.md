@@ -1,6 +1,6 @@
 ---
 title: "Chicken Cubano"
-categories: [chicken, sandwich]
+categories: [chicken, sandwiches]
 slug: "cubano"
 ---
 

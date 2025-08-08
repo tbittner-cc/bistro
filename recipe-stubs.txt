@@ -1,99 +1,79 @@
-Spinach and Sun-dried Tomato Pizza
-vegetarian,pizza
-spinach-pizza
+Cheeseburger with Grilled Onions
+meat, sandwich
+cheeseburger
 
-Eggplant and Caramelized Onion Pizza
-vegetarian,pizza
-eggplant-pizza
+Jambalaya
+meat, stew
+jambalaya
 
-Black Bean Burger
-vegetarian,sandwich
-blackbean-burger
+Tuna Nicoise
+seafood, french
+nicoise
 
-Chickpea Curry
-indian,vegetarian
-chickpea-curry
+Shrimp and Pesto Buddha Bowls
+seafood
+buddha
 
-Portobello Fajitas
-mexican,vegetarian
-fajitas
+Coconut Shrimp
+seafood, asian
+coconut-shrimp
 
-Margherita Pizza
-pizza,vegetarian
-margherita
+Parmesan Fish Filets
+seafood
+parmesan-fish
 
-Goat Cheese and Red Onion Quesadillas
-mexican,vegetarian
-quesadillas 
+Pesto Salmon
+seafood
+pesto-salmon
 
-Leek and Artichoke Frittata
-vegetarian
-frittata
+Honey and Soy Salmon
+seafood, asian
+soy-salmon
 
-Peanut Noodles with Tofu
-asian,vegetarian
-peanut-noodles
+Cod with Tomatoes and Olives
+seafood
+cod-with-tomatoes
 
-Sweet and Sour Tofu
-asian, vegetarian
-sweet-and-sour
+Linguini with Clams
+seafood, pasta
+clam-linguini
 
-Tofu Picatta
-vegetarian, pasta
-picatta
+Fish, Corn, and Fennel Chowder
+seafood, stew
+chowder
 
-Tofu Tacos with Avocado Crema
-vegetarian, mexican
-avocado-crema-tacos
+Garlic Butter Salmon
+seafood
+garlic-salmon
 
-Spinach Pastitio
-vegetarian, greek
-pastitio
+Lobster Roll
+seafood, sandwich
+lobster-roll
 
-Buffalo Chicken Pizza
-pizza, chicken
-buffalo-chicken-pizza
+Steak Frites
+meat, specials
+frites
 
-Fried Chicken Sandwich
-sandwich, chicken
-fried-chicken-sandwich
+Short Rib Ragu
+meat, specials
+ragu
 
-Pasta a la Grecque
-pasta, greek, chicken
-grecque
+Fried Chicken
+chicken, specials
+fried-chicken
 
-Marry-me Chicken
-pasta, chicken
-marry-me
+Blue Cheese Pork Tenderloin
+meat, specials
+pork-tenderloin
 
-Spinach Alfredo with Chicken
-pasta, chicken
-alfredo
+Duck Confit Pasta
+specials, pasta, duck
+duck-confit
 
-Spinach and Blue Cheese Pasta with Chicken
-pasta, chicken
-blue-cheese-pasta
+Roast Chicken
+specials, chicken
+roast-chicken
 
-Chicken Shawarma
-mediterranean, chicken
-shawarma
-
-Tofu Tacos with Asian Flavors
-asian, mexican, vegetarian
-asian-tacos
-
-Ricotta Gnocchi with Pomodoro Sauce and Chicken
-pasta, chicken
-gnocchi
-
-Honey-Glazed Wings
-chicken
-wings
-
-Chicken sandwich with cheddar and basil garlic aioli
-chicken, sandwich
-aioli-chicken-sandwich
-
-Chicken Cubano
-chicken, sandwich
-cubano
+Turkey Breast
+specials, turkey
+turkey-breast

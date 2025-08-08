@@ -1,6 +1,6 @@
 ---
 title: "Black Bean Burger"
-categories: [vegetarian,sandwich]
+categories: [vegetarian,sandwiches]
 slug: "blackbean-burger"
 ---
 
