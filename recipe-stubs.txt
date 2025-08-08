@@ -1,0 +1,7 @@
+Pepperoni Pizza
+meat,pizza
+pepperoni
+
+Palak Paneer
+vegetarian,indian
+palak-paneer
