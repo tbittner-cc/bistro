@@ -15,6 +15,11 @@ const categories = recipes.reduce((acc,recipe) => {
 	}); 
 	return acc;
 }, {});
+
+const recipeCount = recipes.filter(recipe =>
+	!recipe.data.categories.includes('sides') &&
+	!recipe.data.categories.includes('foundations')
+).length;
 ---
 
 <Layout>
@@ -22,7 +27,7 @@ const categories = recipes.reduce((acc,recipe) => {
 				bg-champagne md:text-2xl font-bold">
 		<div>Categories</div>
 	</menu>
-	<h2 class="text-xl font-bold mt-2 text-center">{recipes.length} Total Recipes</h2>
+	<h2 class="text-xl font-bold mt-2 text-center">{recipeCount} Total Recipes</h2>
 	<div class="flex mt-2 flex-wrap justify-around">
 	{
 		Object.entries(categories)

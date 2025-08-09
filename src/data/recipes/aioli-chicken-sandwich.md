@@ -33,5 +33,5 @@ marinade, the more flavorful the chicken will be, but 15 minutes should suffice.
 8. Top with the chicken and basil leaves.
 
 ## Notes
-* Serve this with mashed cauliflower and asparagus.
+* Serve this with [mashed cauliflower](/bistro/mashed-cauliflower) and [roasted asparagus](/bistro/roasted-asparagus).
 
