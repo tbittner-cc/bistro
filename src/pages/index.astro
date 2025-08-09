@@ -30,7 +30,7 @@ const categories = recipes.reduce((acc,recipe) => {
 				<ul class="ml-6 mt-2 list-disc list-outside">
 					{entries
 						.sort((a, b) => a.title.localeCompare(b.title))
-						.map((entry) => <li><a href={entry.slug}>{entry.title}</a></li>)}
+						.map((entry) => <li><a class="underline" href={entry.slug}>{entry.title}</a></li>)}
 				</ul>
 				</div>
 			</div>
