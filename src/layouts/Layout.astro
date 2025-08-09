@@ -23,12 +23,9 @@ import logo from '../assets/todds-bistro-small-logo.png';
                         <img src={logo.src} alt="Todd's Bistro Logo" class="w-full rounded-md" />
                     </a>
                     </header>
-                    <menu class="w-full mx-2 mt-2 flex items-center justify-center border-t-2 border-b-2 
-                        bg-champagne md:text-2xl font-bold">
-                        <div>Categories</div>
-
-                    </menu>
-                    <slot />
+                    <div class="w-full">
+                        <slot />
+                    </div>
                 </div>
             </div>
         </div>

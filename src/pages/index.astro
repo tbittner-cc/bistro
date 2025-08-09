@@ -18,7 +18,11 @@ const categories = recipes.reduce((acc,recipe) => {
 ---
 
 <Layout>
-	<h2 class="text-xl font-bold mt-2">{recipes.length} Total Recipes</h2>
+	<menu class="w-full mx-2 mt-2 flex items-center justify-center border-t-2 border-b-2 
+				bg-champagne md:text-2xl font-bold">
+		<div>Categories</div>
+	</menu>
+	<h2 class="text-xl font-bold mt-2 text-center">{recipes.length} Total Recipes</h2>
 	<div class="flex mt-2 flex-wrap justify-around">
 	{
 		Object.entries(categories)
